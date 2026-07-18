@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.BlastproofBlockMod"
+			"io.github.siahj1124.blastproofblock.BlastproofBlockMod"
 		],
 		"fabric-datagen": [
-			"com.example.BlastproofBlockModDataGenerator"
+			"io.github.siahj1124.blastproofblock.BlastproofBlockModDataGenerator"
 		],
 		"client": [
-			"com.example.BlastproofBlockClient"
+			"io.github.siahj1124.blastproofblock.BlastproofBlockClient"
 		]
 	},
 	"mixins": [

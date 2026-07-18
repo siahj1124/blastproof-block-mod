@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
+	"package": "io.github.siahj1124.blastproofblock",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

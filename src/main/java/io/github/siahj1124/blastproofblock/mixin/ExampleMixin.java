@@ -1,4 +1,4 @@
-package io.github.siahj1124.blastproofblock.example.mixin;
+package io.github.siahj1124.blastproofblock.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

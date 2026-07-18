@@ -1,4 +1,4 @@
-package io.github.siahj1124.blastproofblock.example;
+package io.github.siahj1124.blastproofblock;
 
 import net.fabricmc.api.ModInitializer;
 
