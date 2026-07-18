@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"com.example.BlastproofBlockModDataGenerator"
+		],
+		"client": [
+			"com.example.BlastproofBlockClient"
 		]
 	},
 	"mixins": [

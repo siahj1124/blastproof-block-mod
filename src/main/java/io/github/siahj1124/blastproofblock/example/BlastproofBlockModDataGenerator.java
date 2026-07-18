@@ -1,4 +1,4 @@
-package com.example;
+package io.github.siahj1124.blastproofblock.example;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;

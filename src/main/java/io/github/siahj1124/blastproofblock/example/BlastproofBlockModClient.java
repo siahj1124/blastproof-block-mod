@@ -1,5 +1,13 @@
-package com.example;
+package io.github.siahj1124.blastproofblock.example;
 
-public class BlastproofBlockModClient {
+import net.fabricmc.api.ClientModInitializer;
+
+public class BlastproofBlockModClient implements ClientModInitializer{
+
+    @Override
+    public void onInitializeClient() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'onInitializeClient'");
+    }
 
 }
