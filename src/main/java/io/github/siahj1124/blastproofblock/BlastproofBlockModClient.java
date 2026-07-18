@@ -7,7 +7,6 @@ public class BlastproofBlockModClient implements ClientModInitializer{
     @Override
     public void onInitializeClient() {
         // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'onInitializeClient'");
     }
 
 }

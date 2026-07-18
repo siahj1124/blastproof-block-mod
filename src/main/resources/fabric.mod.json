@@ -3,13 +3,13 @@
 	"id": "blastproof-block-mod",
 	"version": "${version}",
 	"name": "blastproof-block-mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A Fabric mod that makes selected blocks blast proof",
 	"authors": [
-		"Me!"
+		"siahj!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/siahj1124/blastproof-block-mod",
+		"sources": "https://github.com/siahj1124/blastproof-block-mod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/blastproof-block-mod/icon.png",
@@ -22,7 +22,7 @@
 			"io.github.siahj1124.blastproofblock.BlastproofBlockModDataGenerator"
 		],
 		"client": [
-			"io.github.siahj1124.blastproofblock.BlastproofBlockClient"
+			"io.github.siahj1124.blastproofblock.BlastproofBlockModClient"
 		]
 	},
 	"mixins": [
