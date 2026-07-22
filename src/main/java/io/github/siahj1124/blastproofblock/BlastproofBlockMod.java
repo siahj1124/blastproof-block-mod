@@ -20,7 +20,7 @@ public class BlastproofBlockMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		//e.g. LOGGER.info("Hello Fabric world!");
+		LOGGER.info("BlastproofBlockMod Loaded");
 	}
 
 	public static Identifier id(String path) {
