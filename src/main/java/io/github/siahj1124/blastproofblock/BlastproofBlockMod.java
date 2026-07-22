@@ -2,6 +2,8 @@ package io.github.siahj1124.blastproofblock;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.event.lifecycle.v1.ServerWorldEvents;
+import net.minecraft.server.world.ServerWorld;
 import net.minecraft.util.Identifier;
 
 import org.slf4j.Logger;
